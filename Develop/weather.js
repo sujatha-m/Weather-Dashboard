@@ -151,7 +151,7 @@ function getCurrentWeather(cityName) {
 //it processes the received data and sets up Temperature and Humidity
 //information to be displayed on the page
 function getForecast(cityName) {
-  let queryURL1 = "http://api.openweathermap.org/data/2.5/forecast/daily?q=" + cityName + '&appid=' + APIKey + '&units=metric';
+  let queryURL1 = "https://api.openweathermap.org/data/2.5/forecast/daily?q=" + cityName + '&appid=' + APIKey + '&units=metric';
 
   fetch(queryURL1)
     .then(function (response) {
