@@ -48,7 +48,7 @@ weather info is displayed.
 
 The following images demonstrate the application functionality:
 
-![Shows current weather](./Assets/1.showscurrentcityweather.png)
+![Entry page](./Assets/1.entrypage.png)
 ![Currentday and Five day forecast](./Assets/2.currentweatherandFivedayforecast.png)
-![Uv index](./Assets/3.weatherUvIndex.png)
-![Entry page](./Assets/4.entrypage.png)
+![Shows current weather](./Assets/3.showscurrentcityweather.png)
+![Uv index](./Assets/4.weatherUvIndex.png)
