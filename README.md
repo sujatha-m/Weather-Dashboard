@@ -1,5 +1,8 @@
 # Server-Side APIs: Weather Dashboard
 
+**Deployed Web URL**
+https://sujatha-m.github.io/Weather-Dashboard/Develop/
+
 ## Overview 
 An application that displays weather outlook for multiple cities by making calls to ThirdParty
 OpenWeather API and processing the received data.
